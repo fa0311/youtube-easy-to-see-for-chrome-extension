@@ -13,12 +13,10 @@
                 padding-left: 250px!important;
                 }
             }
-
-
-
             
         #masthead-container.ytd-app {
             position: static!important;
+            margin-bottom: 10px;
         }
 
         div#primary {
@@ -42,3 +40,20 @@
         top:40px!important;
         }
 
+
+
+
+        #container.ytd-masthead.watch {
+            padding: 0 16px!important;
+                padding-left: 16px!important;
+                }
+                    @media (min-width:1313px) {
+                            #container.ytd-masthead.watch {
+                                        padding-left: 16px!important;
+                                            } 
+                                           }
+                                           
+
+            #wrapper.app-header-layout > [slot=header]{
+                top:40px!important;
+            }
