@@ -1,5 +1,10 @@
-# youtube-easy-to-see-for-chrome-extension
-youtubeを見やすくするchrome拡張機能です<br>
-youtubeにある上のバーを固定化し小さくします<br>
-そのうちchromeストアにもアップロードします<br>
-使い方はchromeの拡張機能を選択し「デベロッパーモード」をオンにしたあと「パッケージ化されていない拡張機能を読み込む」を選択しyoutube-easy-to-seeファイルを選択してください<br>
+#youtube-easy-to-see-for-chrome-extension
+youtubeのUIを変更して視認性を上げる拡張機能です
+
+#Requirement
+Google Chrome
+
+#Installation
+このサイトの*Clone or download*から*Download ZIP*を選択してファイルをダウンロードして展開  
+chromeの設定から拡張機能を選択して*デベロッパーモード*をオンにしたあと*パッケージ化されていない拡張機能を読み込む*を選択し  
+展開したフォルダの中からyoutube_easy_to_seeを選択してください  
