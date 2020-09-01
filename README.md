@@ -11,7 +11,3 @@ chromeの設定から拡張機能を選択して*デベロッパーモード*を
 
 # Note
 利用者の情報を収集することはできません
-
-# License
-
-youtube-easy-to-see-for-chrome-extension is under MIT License
